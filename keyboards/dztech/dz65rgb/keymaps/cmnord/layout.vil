@@ -18,7 +18,7 @@
                 "KC_MINUS",
                 "KC_EQUAL",
                 "KC_BSPACE",
-                "KC_BRID"
+                "KC_SCROLLLOCK"
             ],
             [
                 "KC_TAB",
@@ -35,7 +35,7 @@
                 "KC_LBRACKET",
                 "KC_RBRACKET",
                 "KC_BSLASH",
-                "KC_BRIU"
+                "KC_PAUSE"
             ],
             [
                 "KC_ESCAPE",
